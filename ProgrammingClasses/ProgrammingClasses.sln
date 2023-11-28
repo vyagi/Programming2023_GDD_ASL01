@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedProgrammingIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreObjectOrientation", "MoreObjectOrientation\MoreObjectOrientation.csproj", "{2AC3C681-EC04-4877-AF9C-05684C6252D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemainingTopics", "RemainingTopics\RemainingTopics.csproj", "{97A5CB79-2B27-41E5-AE9F-5373579E9432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2AC3C681-EC04-4877-AF9C-05684C6252D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AC3C681-EC04-4877-AF9C-05684C6252D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AC3C681-EC04-4877-AF9C-05684C6252D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A5CB79-2B27-41E5-AE9F-5373579E9432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A5CB79-2B27-41E5-AE9F-5373579E9432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A5CB79-2B27-41E5-AE9F-5373579E9432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A5CB79-2B27-41E5-AE9F-5373579E9432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
